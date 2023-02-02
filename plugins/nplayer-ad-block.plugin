@@ -1,0 +1,17 @@
+#!name=nplayer广告屏蔽
+#!desc=屏蔽nplayer广告
+#!openUrl=
+#!author=gavin-gui
+#!homepage=https://github.com/gavin-gui/Loon-Scripts
+#!icon=
+
+[Rule]
+# nplayer去广告
+DOMAIN-SUFFIX,rayjump.net,REJECT
+DOMAIN-SUFFIX,adservice.google.com,REJECT
+DOMAIN-SUFFIX,vungle.com,REJECT
+DOMAIN,googleads.g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,googleusercontent.com,REJECT
+DOMAIN-SUFFIX,gstatic.com,REJECT
+DOMAIN,app-measurement.com,REJECT
+DOMAIN,moatads.com,REJECT
