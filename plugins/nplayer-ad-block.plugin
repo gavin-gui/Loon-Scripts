@@ -8,6 +8,7 @@
 [Rule]
 # nplayer去广告
 DOMAIN-SUFFIX,rayjump.net,REJECT
+DOMAIN-SUFFIX,rayjump.com,REJECT
 DOMAIN-SUFFIX,adservice.google.com,REJECT
 DOMAIN-SUFFIX,vungle.com,REJECT
 DOMAIN,googleads.g.doubleclick.net,REJECT
