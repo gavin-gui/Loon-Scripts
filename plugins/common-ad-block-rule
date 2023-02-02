@@ -26,6 +26,7 @@ DOMAIN,dig.bdurl.net,REJECT
 DOMAIN-SUFFIX,umengcloud.com,REJECT
 DOMAIN-KEYWORD,pangolin-sdk-toutiao,REJECT
 DOMAIN-SUFFIX,gdt.qq.com,REJECT
+DOMAIN-SUFFIX,mdt.qq.com,REJECT
 DOMAIN,sdk.e.qq.com,REJECT
 DOMAIN,t-dsp.pinduoduo.com,REJECT
 DOMAIN,open.e.kuaishou.com,REJECT
