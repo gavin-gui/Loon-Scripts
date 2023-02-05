@@ -8,7 +8,6 @@
 [Rule]
 DOMAIN-SUFFIX,googlevideo.com,REJECT
 DOMAIN-SUFFIX,googleusercontent.com,REJECT
-DOMAIN-SUFFIX,gstatic.com,REJECT
 DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googleadsserving.cn,REJECT
