@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googleadsserving.cn,REJECT
 DOMAIN-SUFFIX,g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,app-measurement.com,REJECT
 DOMAIN-SUFFIX,snssdk.com,REJECT
 DOMAIN-SUFFIX,sgsnssdk.com,REJECT
 DOMAIN-SUFFIX,pstatp.com,REJECT
