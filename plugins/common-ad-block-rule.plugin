@@ -35,3 +35,4 @@ DOMAIN,mobads-pre-config.cdn.bcebos.com,REJECT
 DOMAIN-SUFFIX,shuzilm.cn,REJECT
 DOMAIN,api.smoot.apple.com,REJECT
 DOMAIN,api.smoot.apple.cn,REJECT
+DOMAIN,moatads.com,REJECT
